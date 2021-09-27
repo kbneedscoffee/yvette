@@ -5,4 +5,6 @@ I created Yvette in part to learn [Twine](https://twinery.org/), but also to hel
 
 Research data management can be a very dry subject, so I wanted to make it into a short and digestible interactive experience. I tried to capture realistic scenarios where learners could also see themselves in Yvette. 
 
+**[Play Yvette on itch.io](https://kbneedscoffee.itch.io/yvette)**
+
 The images of Yvette, Dr. Grant, and the research librarian were built with Pablo Stanley's incredible resource [OpenPeeps](https://www.openpeeps.com/). 
